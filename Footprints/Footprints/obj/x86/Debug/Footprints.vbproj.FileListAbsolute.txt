@@ -1,0 +1,13 @@
+C:\Users\INDRA\Documents\Visual Studio 2010\Projects\Footprints\Footprints\bin\Debug\Footprints.exe
+C:\Users\INDRA\Documents\Visual Studio 2010\Projects\Footprints\Footprints\bin\Debug\Footprints.pdb
+C:\Users\INDRA\Documents\Visual Studio 2010\Projects\Footprints\Footprints\bin\Debug\Footprints.xml
+C:\Users\INDRA\Documents\Visual Studio 2010\Projects\Footprints\Footprints\obj\x86\Debug\Footprints.vbproj.GenerateResource.Cache
+C:\Users\INDRA\Documents\Visual Studio 2010\Projects\Footprints\Footprints\obj\x86\Debug\Footprints.exe
+C:\Users\INDRA\Documents\Visual Studio 2010\Projects\Footprints\Footprints\obj\x86\Debug\Footprints.xml
+C:\Users\INDRA\Documents\Visual Studio 2010\Projects\Footprints\Footprints\obj\x86\Debug\Footprints.pdb
+C:\Users\INDRA\Documents\Visual Studio 2010\Projects\Footprints\Footprints\bin\Debug\Footprints.exe.manifest
+C:\Users\INDRA\Documents\Visual Studio 2010\Projects\Footprints\Footprints\bin\Debug\Footprints.application
+C:\Users\INDRA\Documents\Visual Studio 2010\Projects\Footprints\Footprints\obj\x86\Debug\Footprints.exe.manifest
+C:\Users\INDRA\Documents\Visual Studio 2010\Projects\Footprints\Footprints\obj\x86\Debug\Footprints.application
+C:\Users\INDRA\Documents\Visual Studio 2010\Projects\Footprints\Footprints\obj\x86\Debug\Footprints.Main.resources
+C:\Users\INDRA\Documents\Visual Studio 2010\Projects\Footprints\Footprints\obj\x86\Debug\Footprints.Resources.resources

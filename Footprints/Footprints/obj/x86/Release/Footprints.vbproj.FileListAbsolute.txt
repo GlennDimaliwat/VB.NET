@@ -1,0 +1,13 @@
+C:\Users\INDRA\documents\visual studio 2010\Projects\Footprints\Footprints\bin\Release\Footprints.exe
+C:\Users\INDRA\documents\visual studio 2010\Projects\Footprints\Footprints\bin\Release\Footprints.pdb
+C:\Users\INDRA\documents\visual studio 2010\Projects\Footprints\Footprints\bin\Release\Footprints.xml
+C:\Users\INDRA\documents\visual studio 2010\Projects\Footprints\Footprints\obj\x86\Release\Footprints.vbproj.GenerateResource.Cache
+C:\Users\INDRA\documents\visual studio 2010\Projects\Footprints\Footprints\obj\x86\Release\Footprints.exe
+C:\Users\INDRA\documents\visual studio 2010\Projects\Footprints\Footprints\obj\x86\Release\Footprints.xml
+C:\Users\INDRA\documents\visual studio 2010\Projects\Footprints\Footprints\obj\x86\Release\Footprints.pdb
+C:\Users\INDRA\documents\visual studio 2010\Projects\Footprints\Footprints\bin\Release\Footprints.exe.manifest
+C:\Users\INDRA\documents\visual studio 2010\Projects\Footprints\Footprints\bin\Release\Footprints.application
+C:\Users\INDRA\documents\visual studio 2010\Projects\Footprints\Footprints\obj\x86\Release\Footprints.exe.manifest
+C:\Users\INDRA\documents\visual studio 2010\Projects\Footprints\Footprints\obj\x86\Release\Footprints.application
+C:\Users\INDRA\Documents\Visual Studio 2010\Projects\Footprints\Footprints\obj\x86\Release\Footprints.Main.resources
+C:\Users\INDRA\Documents\Visual Studio 2010\Projects\Footprints\Footprints\obj\x86\Release\Footprints.Resources.resources
